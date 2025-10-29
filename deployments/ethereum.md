@@ -12,6 +12,10 @@
 - cbBTC: [0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf](https://etherscan.io/token/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf)
 - MBTC: [0x2F913C820ed3bEb3a67391a6eFF64E70c4B20b19](https://etherscan.io/token/0x2F913C820ed3bEb3a67391a6eFF64E70c4B20b19)
 
+## Chainlink
+- brBTCRate: [0x665e4372438d980818D5078e6c5cf190939c24d9](https://etherscan.io/address/0x665e4372438d980818D5078e6c5cf190939c24d9)
+- brBTCRawBTCExchangeRateChainlinkAdapter: [0xC651Dd42F634126eCD1F605d1173601e6fc11680](https://etherscan.io/address/0xC651Dd42F634126eCD1F605d1173601e6fc11680)
+
 ## Meson
 
 [//]: # (https://etherscan.io/tx/0x7a07a12f38f2ae103b1e5237dd6f9fb1a91b7fcd984d7c524c72c89f531ff009)
