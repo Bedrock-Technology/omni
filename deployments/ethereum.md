@@ -15,6 +15,7 @@
 ## Chainlink
 - brBTCRate: [0x665e4372438d980818D5078e6c5cf190939c24d9](https://etherscan.io/address/0x665e4372438d980818D5078e6c5cf190939c24d9)
 - brBTCRawBTCExchangeRateChainlinkAdapter: [0xC651Dd42F634126eCD1F605d1173601e6fc11680](https://etherscan.io/address/0xC651Dd42F634126eCD1F605d1173601e6fc11680)
+- BurnMintTokenPool: [0x512c2Ddf5f7F48a6c44cFF73CD8d7edEC5e6b0d8](https://etherscan.io/address/0x512c2ddf5f7f48a6c44cff73cd8d7edec5e6b0d8)
 
 ## Meson
 

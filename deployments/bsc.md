@@ -15,6 +15,9 @@
 ## TransferProxy
 - TransferProxy: [0x782d9A8B9BA6de823835C95242d955508d2b5EA9](https://bscscan.com/address/0x782d9a8b9ba6de823835c95242d955508d2b5ea9)
 
+## CCT Token Pool
+- [0x5390E2e17C896244B7544e8566E9D77599700DE5](https://bscscan.com/address/0x5390e2e17c896244b7544e8566e9d77599700de5)
+
 ## Meson
 
 [//]: # (https://bscscan.com/tx/0xacef690be87e07bdc1dc1c4001fd1db4b7ce401ae6f5fe387a44e483943bde0d)
