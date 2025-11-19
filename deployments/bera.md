@@ -14,3 +14,7 @@
 ## TransferProxy
 
 - [0x6E542567d4744D648f6AB47ac80bEcD02e47Ac09](https://berascan.com/address/0x6E542567d4744D648f6AB47ac80bEcD02e47Ac09#code)
+
+## CCT Token Pool
+
+- [0xC82793e403a637ded107C3c9D0785776e46852A8](https://berascan.com/address/0xc82793e403a637ded107c3c9d0785776e46852a8)

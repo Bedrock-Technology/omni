@@ -4,3 +4,8 @@
 
 - ProxyAdmin: [0x9203cE1BcdEd1a20f697E1780Bc47d5B6D718031](https://hyperevmscan.io/address/0x9203cE1BcdEd1a20f697E1780Bc47d5B6D718031)
 - brBTC: [0xDfc7D2d003A053b2E0490531e9317A59962b511E](https://hyperevmscan.io/address/0xDfc7D2d003A053b2E0490531e9317A59962b511E)
+
+## CCT Token Pool
+
+- [0x330BF3C554ab94533069AF11313143eD3884cf15](https://hyperevmscan.io/address/0x330bf3c554ab94533069af11313143ed3884cf15)
+
